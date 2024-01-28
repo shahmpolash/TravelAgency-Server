@@ -45,7 +45,8 @@ async function run() {
 
 
 
-            /*** Pricing Section Satrt* **/
+        
+
 
 
             app.post('/add-pricing', async (req, res) => {
